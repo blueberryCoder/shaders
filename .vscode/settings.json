@@ -1,0 +1,11 @@
+{
+    "glsl-canvas.textures": {
+        "0": "./resouces/lenna.png",
+    },
+
+    "glsl-canvas.uniforms": {
+        "u_saturation": 1.0,
+        "u_hue": 1.0,
+        "u_bright" : 1.0
+    }
+}
